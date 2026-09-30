@@ -20,6 +20,6 @@ WebApplication1/
 │── Pages/             # Razor pages (UI and logic)[cite: 5]
 │── Properties/        # Launch settings (`launchSettings.json`)[cite: 5]
 │── wwwroot/           # Static assets (CSS, JS, libraries)[cite: 5]
-│── Program.cs         # Application entry point and routing configuration[cite: 5]
+│── Program.cs         # Application entry point and routing configuration[cite: 5] 
 │── WebApplication1.csproj # C# Project file[cite: 5]
 └── README.md          # Project documentation
